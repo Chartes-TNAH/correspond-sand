@@ -6,7 +6,7 @@ Application de mise en ligne des correspondances de George Sand
 ### Modèle lettres doit contenir
 
 - le titre
-- le texte (si possible en html: <p>, <br />, <i>)
+- le texte (si possible en html: `<p>, <br />, <i>`)
 - date de la lettre
 - lieu
 - destinataire (NULLABLE)
